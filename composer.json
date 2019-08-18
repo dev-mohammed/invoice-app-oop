@@ -1,0 +1,16 @@
+{
+    "name": "howtocodewell/php",
+    "type": "project",
+    "require": {
+        "codeception/codeception": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "mohamed adel",
+            "email": "devmohamed2015@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^0.11.14"
+    }
+}
